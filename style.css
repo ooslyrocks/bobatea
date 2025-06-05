@@ -1,0 +1,14 @@
+body{
+;
+text-allign:center;
+font-family: 'Arial'; 
+background: #6F4E37; 
+color:off-white
+}
+
+img{
+    width:200px;
+    display: flex;
+    justify-content: center
+    
+}
